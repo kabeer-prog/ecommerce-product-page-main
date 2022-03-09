@@ -25,14 +25,17 @@ h1{
 .container{
     display: flex;
     margin-top: 20px;
-    justify-content: flex-start;
+    justify-content:stretch;
     align-items: center;
 }
 .child{
-    width: 40%;
+    width: 50%;
 }
 section .container section + section{
     margin: 10px auto;
+}
+.attribution{
+    text-align: center;
 }
 section .child img{
         margin: 30px auto;
