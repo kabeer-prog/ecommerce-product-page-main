@@ -47,3 +47,7 @@ section .child img{
         margin-left: 100px;
         
 }
+.cart_button{
+    height:50px;
+    width:100%;
+}
